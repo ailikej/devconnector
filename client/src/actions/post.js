@@ -2,9 +2,7 @@ import axios from 'axios';
 import { setAlert } from './alert';
 import {
     GET_POSTS,
-    GET_PROFILES,
     POST_ERROR,
-    UPDATE_PROFILE,
     UPDATE_LIKES,
     DELETE_POST,
     ADD_POST,
